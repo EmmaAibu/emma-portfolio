@@ -116,7 +116,7 @@ const Contact = () => {
               GitHub
             </a>
             <a
-              href="https://emma-aibu.netlify.app/"
+              href="https://emmaaibuportfolio.netlify.app/"
               target="_blank"
               rel="noreferrer"
               className="hover:text-green-700"
