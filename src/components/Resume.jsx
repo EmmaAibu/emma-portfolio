@@ -1,3 +1,4 @@
+// src/components/Resume.jsx
 import React from "react";
 import { motion } from "framer-motion";
 
@@ -24,7 +25,7 @@ const Resume = () => {
         </motion.p>
 
         <motion.a
-          href="/Emma_Aibu_CV.pdf" // File should be in public/Emma_Aibu_CV.pdf
+          href="/Emma_Aibu_CV.pdf"
           download
           className="inline-block px-6 py-3 bg-red-300 text-red-950 font-semibold rounded-lg shadow hover:bg-gray-100 transition"
           initial={{ opacity: 0 }}
